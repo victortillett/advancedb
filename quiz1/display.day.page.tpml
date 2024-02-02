@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <Title> Hello </Title>
+    </head>
+    <body>
+    <p>Hello Stranger! today is {{ . }}</p>
+    </footer>
+        
+    </body>
+</html>
